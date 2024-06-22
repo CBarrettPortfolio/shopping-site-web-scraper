@@ -35,7 +35,7 @@ This Python script scrapes the Avenged Sevenfold merchandise website and sends a
    - Create a Discord channel for the notifications.
    - (Optional) Create a Discord role to mention in the notifications.
 2. **Code Modifications:**
-   - Open the `main.py` file.
+   - Open the `a7xwebscraper.py` file.
    - Replace the placeholder values (`0`) for `channel_id` and `role_id` with your actual Discord channel and role IDs.
    - Replace `'YOUR_DISCORD_BOT_TOKEN'` with your Discord bot token.
    - **Important:** Store your bot token securely and never commit it to version control. Consider using environment variables for this purpose.
