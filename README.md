@@ -44,7 +44,7 @@ This Python script scrapes the Avenged Sevenfold merchandise website and sends a
 
 1. Run the script:
    ```bash
-   python main.py
+   python a7xwebscraper.py
    ```
 2. The script will connect to Discord and start monitoring the A7X merchandise website.
 3. When new items are detected, a notification will be sent to your configured Discord channel.
